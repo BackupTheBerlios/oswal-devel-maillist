@@ -1,0 +1,42 @@
+From naddlmenz at gmx.de  Fri Apr  1 14:13:40 2005
+From: naddlmenz at gmx.de (Nadja Menz)
+Date: Fri, 01 Apr 2005 14:13:40 +0200
+Subject: [Oswal-devel] abgabetermin
+In-Reply-To: <4246E71F.4010600@yahoo.de>
+References: <4246E71F.4010600@yahoo.de>
+Message-ID: <424D3AF4.7060507@gmx.de>
+
+> Ich w?rde vorschlagen, dass wenn die Abgabe am 7.4 ist, dass wir 
+> uns z.B. am 5.4 nochmal alle zusammensetzen und uns vllt nochmal 
+> besprechen.
+
+Ich w?rde diesen Vorschlag gerne nochmal aufgreifen. Wir k?nnten dann 
+Fragen zum Code kl?ren und die "Pr?sentation" auf Thomas Laptop 
+durchgehen, etc. Wir m?ssten uns aber so treffen, dass wir entweder um 
+12Uhr noch zu Hause sind oder schon an der Uni, da zu diesem Zeitpunkt 
+die Freischaltung der Praktika ist.
+W?re sch?n, wenn sich jeder vorher meldet, damit wir wissen wer (nicht) 
+kommt.
+
+	Naddl
+
+
+From estar at cs.tu-berlin.de  Mon Apr 11 19:06:53 2005
+From: estar at cs.tu-berlin.de (Ewgenij Starostin)
+Date: Mon, 11 Apr 2005 19:06:53 +0200
+Subject: [Oswal-devel] Abschlussbericht
+Message-ID: <20050411170653.GA3105@fiesta.cs.tu-berlin.de>
+
+Moin.
+
+K?nnt ihr alle mal posten, was ihr bisher geschrieben habt?
+
+http://user.cs.tu-berlin.de/~estar/ab_estar.{tex,pdf}
+
+-- 
+Kind regards
+Ewgenij Starostin, 	estar at cs.tu-berlin.de
+You can find stuff which I would otherwise put in this signature here:
+http://user.cs.tu-berlin.de/~estar/sig.cgi (still under construction)
+
+

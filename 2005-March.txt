@@ -1,0 +1,394 @@
+From naddlmenz at gmx.de  Wed Mar 16 22:34:17 2005
+From: naddlmenz at gmx.de (Nadja Menz)
+Date: Wed, 16 Mar 2005 22:34:17 +0100
+Subject: [Oswal-devel] Treffen am FR?
+Message-ID: <4238A659.2070304@gmx.de>
+
+Hi!
+
+Ich wei? es ist etwas kurzfristig, aber ich w?rde gerne ein Treffen am 
+FR gegen 14Uhr im FR einberaumen. Thema: Abschlussbericht. Ich habe 
+schon angefangen, aber ein bi?chen ist nat?rlich trotzdem noch zu tun. 
+Sagt bitte Bescheid ob ihr Zeit/Lust habt. Falls es euch zu fr?h/sp?t 
+ist, macht bitte einen anderen Vorschlag. Ich bn allerdings vom 21.3 bis 
+zum 28.3 nicht in Berlin...
+
+	Naddl
+
+
+From naddlmenz at gmx.de  Mon Mar 21 00:12:29 2005
+From: naddlmenz at gmx.de (Nadja Menz)
+Date: Mon, 21 Mar 2005 00:12:29 +0100
+Subject: [Oswal-devel] Bericht
+Message-ID: <423E035D.3040705@gmx.de>
+
+Hi!
+
+Die neuste Version unseres Berichts und alle fertigen .tex Dateien 
+findet ihr immer unter
+http://user.cs.tu-berlin.de/~naddl/tu/oswal/ |Abschlussbericht.ps|
+Sobald ich etwas aktualisiere werde ich Bescheid sagen. Lest euch bitte 
+aber nochmal alles durch und achtet vor allem auf 
+Rechtschreibung/Kommasetzung.
+
+Es w?re sch?n wenn ihr auch noch etwas zu unserem Literaturverzeichnis 
+beitragen k?nntet. Bisher habe ich
+- Latex: Generator http://latex.sehnot.de/
+	 Forum http://www.mrunix.de/forums/forumdisplay.php?f=38
+	 @LaTeX help 1.1 					
+	    http://www.cs.tu-berlin.de/usr/TeX/doc/html/latex_toc.html
+- GPL: http://www.gnu.org/licenses/gpl.html
+- UML: Introduction http://www.omg.org/gettingstarted/what_is_uml.htm
+- Linux: Linux Documentation Project 	
+	    http://www.tldp.org/LDP/lkmpg/2.6/html/c745.htm
+
+	Naddl
+
+P.S: Freudige Nachricht! Es ist durchaus m?glich Umlaute und ? in Tex zu 
+schreiben. :-)
+
+
+
+From estar at cs.tu-berlin.de  Mon Mar 21 08:41:35 2005
+From: estar at cs.tu-berlin.de (Ewgenij Starostin)
+Date: Mon, 21 Mar 2005 08:41:35 +0100
+Subject: [Oswal-devel] Bericht
+In-Reply-To: <423E035D.3040705@gmx.de>
+References: <423E035D.3040705@gmx.de>
+Message-ID: <20050321074135.GA26186@fiesta.cs.tu-berlin.de>
+
+Menz, Nadja wrote:
+
+> - UML: Introduction http://www.omg.org/gettingstarted/what_is_uml.htm
+
+Irrelevant.
+
+> - Linux: Linux Documentation Project 	
+> 	    http://www.tldp.org/LDP/lkmpg/2.6/html/c745.htm
+
+Total irrelevant.
+
+-- 
+Kind regards
+Ewgenij Starostin, 	estar at cs.tu-berlin.de
+You can find stuff which I would otherwise put in this signature here:
+http://user.cs.tu-berlin.de/~estar/sig.cgi (still under construction)
+
+
+From naddlmenz at gmx.de  Tue Mar 22 23:46:23 2005
+From: naddlmenz at gmx.de (Nadja Menz)
+Date: Tue, 22 Mar 2005 23:46:23 +0100
+Subject: [Oswal-devel] Aktualisierung2
+Message-ID: <4240A03F.1010309@gmx.de>
+
+Hi!
+
+Bericht (in .pdf) und neuste .tex Dateien liegen in
+http://user.cs.tu-berlin.de/~naddl/tu/oswal
+
+	Nadja
+
+
+From naddlmenz at gmx.de  Mon Mar 21 23:36:24 2005
+From: naddlmenz at gmx.de (Nadja Menz)
+Date: Mon, 21 Mar 2005 23:36:24 +0100
+Subject: [Oswal-devel] Aktualisierung
+Message-ID: <423F4C68.2080509@gmx.de>
+
+Nabend!
+
+Ich habe gerade voller Schrecken festgestellt, dass unser Bericht 
+momentan 11.5MB gro? ist (haupts?chlich wegen der ganzen Grafiken). Aus 
+diesem Grund werde ich zwar die .tex Dateien online aktualisieren, die 
+geteXte Version gibt es dann aber erst wenn wirklich alles fertig ist. 
+Sch?n w?re es, wenn einer von euch sich bereit erkl?ren w?rde, sie MI 
+nachmittag/abend runterzuladen und an die Liste zu schicken (inkl. der 
+anderen Daten die da noch mit rein sollen).
+Folge Sachen brauche ich noch:
+- Best?tigung von BerliOS (Ewgenij!)
+- Zweite Absage von SF (Thomas!)
+
+Besteht hier jemand auf ein Literaturverzeichnis? Falls ich keine Zeit 
+mehr daf?r habe, w?rde ich ansonsten einfach Fussnoten mit den 
+jeweiligen URL's einf?gen. Es hat ja keiner von euch wirkich ein Buch 
+f?r OS gelesen, oder?
+Die Sache mit den Anh?ngen habe ich jetzt so gel?st: Jeder Anhang ist 
+ein Unterkapitel von Anhang. Damit stehen sie auch alle im 
+Inhaltsverzeichnis (was man aber ?ndern k?nnte).
+Ohne Ahnhang und Literaturverzeichnis kommen wir momentan nur auf 9 
+Seiten. Falls das bei der Endfassung auc nicht viel mehr sein sollte, 
+werde ich die Schriftgr??e auf 11pt setzen. (Als kleine Anmerkung: Falls 
+ihr das zu Hause probieren solltet bitte nicht wundern, wenn die Bilder 
+an merkw?rdigen Stellen stehen. Dann einfach ein paar der \\ l?schen.)
+
+	Naddl
+
+P.S. Thomas: Ich werde morgen gegen 14Uhr wieder meine Mails abrufen. 
+Schaffst du es bis dahin mir die entg?ltige(!) Version der Dokumentation 
+(oder besteht jemand auf How-To?) zu schicken?
+
+
+
+From estar at cs.tu-berlin.de  Tue Mar 22 21:19:42 2005
+From: estar at cs.tu-berlin.de (Ewgenij Starostin)
+Date: Tue, 22 Mar 2005 21:19:42 +0100
+Subject: [Oswal-devel] News
+Message-ID: <20050322201942.GB40@fiesta.cs.tu-berlin.de>
+
+Neue Features:
+- XML-Validierung fuer die Ausgabe einzelner Module (noch nicht fuer das
+  ganze Dokument),
+- daraus folgend eine Abhaengigkeit von libxml2 und
+- ein neues Konfigurationsformat, das mehr Verschachtelung erlaubt.
+
+Details wie immer im CVS.
+
+Fuer das Release fehlen noch:
+- Doku,
+- ggf. autoconf-Sachen.
+Und das mache ich jetzt.
+
+-- 
+Kind regards
+Ewgenij Starostin, 	estar at cs.tu-berlin.de
+You can find stuff which I would otherwise put in this signature here:
+http://user.cs.tu-berlin.de/~estar/sig.cgi (still under construction)
+
+
+From estar at cs.tu-berlin.de  Wed Mar 23 11:15:23 2005
+From: estar at cs.tu-berlin.de (Ewgenij Starostin)
+Date: Wed, 23 Mar 2005 11:15:23 +0100
+Subject: [Oswal-devel] News
+In-Reply-To: <20050322201942.GB40@fiesta.cs.tu-berlin.de>
+References: <20050322201942.GB40@fiesta.cs.tu-berlin.de>
+Message-ID: <20050323101523.GC40@fiesta.cs.tu-berlin.de>
+
+Ewgenij Starostin wrote:
+
+> Fuer das Release fehlen noch:
+> - Doku,
+
+Meine Fassung davon gibt es unter doc/ im CVS und eine HTML-Version
+unter http://user.cs.tu-berlin.de/~estar/oswal_doc.html ; README,
+INSTALL, COPYING etc. kommen bald dazu.
+
+> - ggf. autoconf-Sachen.
+
+Habe mich dagegen entschieden, weil das im Moment nichts bringt.
+
+Der Quellcode im CVS sollte jetzt eigentlich lauffaehig sein (als fertig
+moechte ich ihn nicht bezeichnen). Auf der Projekthomepage gibt es im
+Downloadbereich einen Beispielsatz von Templates, Modulen und
+Konfiguration (alles in sample1.tar.gz). Alles zusammen funktioniert
+soweit bei mir unter Linux und Solaris, aber es waere sinnvoll, wenn es
+noch jemand testet.
+
+-- 
+Kind regards
+Ewgenij Starostin, 	estar at cs.tu-berlin.de
+You can find stuff which I would otherwise put in this signature here:
+http://user.cs.tu-berlin.de/~estar/sig.cgi (still under construction)
+
+
+From estar at cs.tu-berlin.de  Wed Mar 23 15:23:27 2005
+From: estar at cs.tu-berlin.de (Ewgenij Starostin)
+Date: Wed, 23 Mar 2005 15:23:27 +0100
+Subject: [Oswal-devel] Aktualisierung
+In-Reply-To: <423F4C68.2080509@gmx.de>
+References: <423F4C68.2080509@gmx.de>
+Message-ID: <20050323142327.GG40@fiesta.cs.tu-berlin.de>
+
+Menz, Nadja wrote:
+
+> - Best?tigung von BerliOS (Ewgenij!)
+
+Anhang.
+
+-- 
+Kind regards
+Ewgenij Starostin, 	estar at cs.tu-berlin.de
+You can find stuff which I would otherwise put in this signature here:
+http://user.cs.tu-berlin.de/~estar/sig.cgi (still under construction)
+-------------- next part --------------
+>From wwwrun at unicorn.berlios.de  Wed Nov 24 09:43:50 2004
+Received: from cartero.cs.tu-berlin.de (postfix at cartero.cs.tu-berlin.de [130.149.17.20])
+	by mail.cs.tu-berlin.de (8.9.3p2/8.9.3) with ESMTP id JAA22316
+	for <estar at cs.tu-berlin.de>; Wed, 24 Nov 2004 09:43:49 +0100 (MET)
+Received: from localhost (localhost [127.0.0.1])
+	by localhost-10025.cs.tu-berlin.de (Postfix) with ESMTP id 1AA8C1A303
+	for <estar at cs.tu-berlin.de>; Wed, 24 Nov 2004 09:43:49 +0100 (MET)
+Received: from cartero.cs.tu-berlin.de ([127.0.0.1])
+ by localhost (bueno [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 20653-46 for <estar at cs.tu-berlin.de>;
+ Wed, 24 Nov 2004 09:43:48 +0100 (MET)
+Received: from unicorn.berlios.de (unicorn.berlios.de [195.37.77.138])
+	by cartero.cs.tu-berlin.de (Postfix) with ESMTP
+	for <estar at cs.tu-berlin.de>; Wed, 24 Nov 2004 09:43:48 +0100 (MET)
+Received: from unicorn.berlios.de (localhost [127.0.0.1])
+	by unicorn.berlios.de (8.12.9+Sun/8.12.9) with ESMTP id iAO8hHKV007604
+	for <estar at cs.tu-berlin.de>; Wed, 24 Nov 2004 09:43:17 +0100 (CET)
+Received: (from wwwrun at localhost)
+	by unicorn.berlios.de (8.12.9+Sun/8.12.9/Submit) id iAO8hHka007603;
+	Wed, 24 Nov 2004 09:43:17 +0100 (CET)
+Date: Wed, 24 Nov 2004 09:43:17 +0100 (CET)
+Message-Id: <200411240843.iAO8hHka007603 at unicorn.berlios.de>
+To: estar at cs.tu-berlin.de
+Subject: BerliOS Developer Project Approved
+From: noreply at berlios.de
+X-Virus-Scanned: by amavisd-new at cs.tu-berlin.de (including spamassassin)
+X-Spam-Status: No, hits=0.124 tagged_above=0 required=3 tests=NO_REAL_NAME
+X-Spam-Level: 
+Status: RO
+
+Your project registration for BerliOS Developer has been approved. 
+
+Project Full Name:  OSWAL Systems Watch And Log
+Project Unix Name:  oswal
+CVS Server:         cvs.berlios.de
+SVN Server:         svn.berlios.de
+Shell Server:       shell.berlios.de
+Web Server:         oswal.berlios.de
+
+Your DNS will take up to a day to become active on our site. Your shell
+accounts will become active at the next 6-hour cron update. While
+waiting for your DNS to resolve, you may try shelling into 
+shell.berlios.de and pointing CVS to cvs.berlios.de or
+SVN to svn.berlios.de.
+
+If after six hours your shell accounts still do not work, please
+open a support ticket so that we may take a look at the problem.
+Please note that all shell accounts are closed to telnet and only
+work with SSH2.
+
+Your web site is accessible through your shell account. Directory
+information will be displayed immediately after logging in.
+
+Please take some time to read the site documentation about project
+administration. If you visit your own project page in BerliOS Developer
+while logged in, you will find additional menu functions to your
+left labeled "Project Administrator". 
+
+We highly suggest that you now visit and create a public
+description for your project. This can be done by visiting your project
+page while logged in, and selecting 'Project Admin' from the menus
+on the left.
+
+Your project will also not appear in the Trove software map until
+you categorize it in the project administration screens. So that
+people can find your project, you should do this now. Visit your project
+while logged in, and select 'Project Admin' from the menus on the
+left.
+
+Enjoy the system, and please tell others about BerliOS Developer. Let us know
+if there is anything we can do to help you.
+
+ -- the BerliOS Developer crew
+
+From estar at cs.tu-berlin.de  Wed Mar 23 15:50:30 2005
+From: estar at cs.tu-berlin.de (Ewgenij Starostin)
+Date: Wed, 23 Mar 2005 15:50:30 +0100
+Subject: [Oswal-devel] Release 0.1.0
+Message-ID: <20050323145030.GH40@fiesta.cs.tu-berlin.de>
+
+Das Release 0.1.0 von OSWAL ist jetzt online. Die Homepage
+(http://oswal.berlios.de/) wurde um entsprechende Verweise ergaenzt und
+der Projektstatus auf Stufe 3 - Alpha heraufgesetzt.
+
+-- 
+Kind regards
+Ewgenij Starostin, 	estar at cs.tu-berlin.de
+You can find stuff which I would otherwise put in this signature here:
+http://user.cs.tu-berlin.de/~estar/sig.cgi (still under construction)
+
+
+From naddlmenz at gmx.de  Fri Mar 25 21:54:16 2005
+From: naddlmenz at gmx.de (Nadja Menz)
+Date: Fri, 25 Mar 2005 21:54:16 +0100
+Subject: [Oswal-devel] Re: [[Osp-team] Abnahmetermin]
+In-Reply-To: <20050325133523.GA2432@insel.cs.tu-berlin.de>
+References: <20050325133523.GA2432@insel.cs.tu-berlin.de>
+Message-ID: <42447A78.8040809@gmx.de>
+
+Ich h?tte kein Problem damit. Wie steht's mit euch? Zeit wieder gegen 
+14Uhr beforzugt? Wer m?chte Steffen antworten?
+
+	Naddl
+
+
+From estar at cs.tu-berlin.de  Fri Mar 25 22:56:51 2005
+From: estar at cs.tu-berlin.de (Ewgenij Starostin)
+Date: Fri, 25 Mar 2005 22:56:51 +0100
+Subject: [Oswal-devel] Re: [[Osp-team] Abnahmetermin]
+In-Reply-To: <42447A78.8040809@gmx.de>
+References: <20050325133523.GA2432@insel.cs.tu-berlin.de> <42447A78.8040809@gmx.de>
+Message-ID: <20050325215651.GA26370@fiesta.cs.tu-berlin.de>
+
+Menz, Nadja wrote:
+
+> Ich h?tte kein Problem damit.
+
+Ich auch nicht. Und die anderen drei Leute melden sich bitte umgehend.
+
+-- 
+Kind regards
+Ewgenij Starostin, 	estar at cs.tu-berlin.de
+You can find stuff which I would otherwise put in this signature here:
+http://user.cs.tu-berlin.de/~estar/sig.cgi (still under construction)
+
+
+From pilzman_2000 at yahoo.de  Sun Mar 27 19:02:23 2005
+From: pilzman_2000 at yahoo.de (Benny H.)
+Date: Sun, 27 Mar 2005 19:02:23 +0200
+Subject: [Oswal-devel] abgabetermin
+Message-ID: <4246E71F.4010600@yahoo.de>
+
+Hi!
+Also ich habe mit dem Verschieben des Abgabetermins auch kein Problem. 
+Ich kann nur am 1. April nicht , aber davon is j auch gar nicht die 
+rede. Ich w?rde vorschlagen, dass wenn die Abgabe am 7.4 ist , dass wir 
+uns z.B. am 5.4 nochmal alle zusammensetzen und uns vllt nochmal besprechen.
+
+greetz Benny
+
+
+
+From estar at cs.tu-berlin.de  Tue Mar 29 22:43:08 2005
+From: estar at cs.tu-berlin.de (Ewgenij Starostin)
+Date: Tue, 29 Mar 2005 22:43:08 +0200
+Subject: [Oswal-devel] (forw) [Fwd: [Re: [[Osp-team] Abnahmetermin]]]
+Message-ID: <20050329204308.GA25522@fiesta.cs.tu-berlin.de>
+
+----- Forwarded message from Holger Kinscher <bruder.veit at web.de> -----
+
+Sender: bruder.veit at web.de
+From: Holger Kinscher <bruder.veit at web.de>
+Subject: [Fwd: [Re: [[Osp-team] Abnahmetermin]]]
+Date: Tue, 29 Mar 2005 22:21:33 +0200
+Message-ID: <4249B8CD.4080707 at web.de>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+To: estar at cs.tu-berlin.de
+X-Accept-Language: en-us, en
+
+14:30 ist optimal, es geht aber auch fr?her, wenn ihr da nicht k?nnt.
+email bitte an die team-liste.
+
+gruss,
+holger
+
+----- Forwarded message from Ewgenij Starostin <estar at cs.tu-berlin.de> -----
+
+
+Wir moechten die Abnahme am 07.04. machen. Wann waere das an dem Tag
+moeglich?
+
+
+
+----- End forwarded message -----
+
+-- 
+Kind regards
+Ewgenij Starostin, 	estar at cs.tu-berlin.de
+You can find stuff which I would otherwise put in this signature here:
+http://user.cs.tu-berlin.de/~estar/sig.cgi (still under construction)
+
+

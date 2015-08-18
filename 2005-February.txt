@@ -1,0 +1,112 @@
+From scruter at arcor.de  Fri Feb 11 16:27:36 2005
+From: scruter at arcor.de (Markus Herpich)
+Date: Fri, 11 Feb 2005 16:27:36 +0100
+Subject: [Oswal-devel] Treffen am Sonntag!?
+Message-ID: <1108135656.7811.6.camel@athlon.home>
+
+Hallo liebe Mitentwickler,
+
+da die Deadline unaufhaltsam n?her r?ckt, wird es Zeit f?r ein Treffen.
+
+Hiermit unterbreite ich euch Sonntag, 14h, FR als Terminvorschlag.
+
+Ich bitte um R?ckmeldungen oder alternative Vorschl?ge
+
+-- 
+Markus Herpich <scruter at arcor.de>
+
+
+
+From naddlmenz at gmx.de  Sat Feb 12 10:38:10 2005
+From: naddlmenz at gmx.de (Nadja Menz)
+Date: Sat, 12 Feb 2005 10:38:10 +0100
+Subject: [Oswal-devel] Treffen am Sonntag!?
+In-Reply-To: <1108135656.7811.6.camel@athlon.home>
+References: <1108135656.7811.6.camel@athlon.home>
+Message-ID: <420DCE82.8050400@gmx.de>
+
+> Hiermit unterbreite ich euch Sonntag, 14h, FR als Terminvorschlag.
+> 
+> Ich bitte um R?ckmeldungen oder alternative Vorschl?ge
+
+Ich werde da sein. :-)
+Treffen wir uns unten vorm Fahrstuhl oder im Arbeitsraum?
+
+	Nadja
+
+
+
+From estar at cs.tu-berlin.de  Sat Feb 12 15:18:33 2005
+From: estar at cs.tu-berlin.de (Ewgenij Starostin)
+Date: Sat, 12 Feb 2005 15:18:33 +0100
+Subject: [Oswal-devel] Treffen am Sonntag!?
+In-Reply-To: <1108135656.7811.6.camel@athlon.home>
+References: <1108135656.7811.6.camel@athlon.home>
+Message-ID: <20050212141833.GA5103@fiesta.cs.tu-berlin.de>
+
+Markus Herpich wrote:
+
+> Hallo liebe Mitentwickler,
+> 
+> da die Deadline unaufhaltsam n?her r?ckt, wird es Zeit f?r ein
+> Treffen.
+
+Ein Treffen w?re imho reine Zeitverschwendung.
+
+-- 
+Kind regards
+Ewgenij Starostin, 	estar at cs.tu-berlin.de
+You can find stuff which I would otherwise put in this signature here:
+http://user.cs.tu-berlin.de/~estar/sig.cgi (still under construction)
+
+
+From scruter at arcor.de  Sat Feb 12 20:50:43 2005
+From: scruter at arcor.de (Markus Herpich)
+Date: Sat, 12 Feb 2005 20:50:43 +0100
+Subject: [Oswal-devel] waste of time?
+Message-ID: <1108237843.1759.0.camel@athlon.home>
+
+Warum ist es denn Zeitverschwendung?
+-- 
+Markus Herpich <scruter at arcor.de>
+
+
+
+From estar at cs.tu-berlin.de  Sat Feb 12 21:02:08 2005
+From: estar at cs.tu-berlin.de (Ewgenij Starostin)
+Date: Sat, 12 Feb 2005 21:02:08 +0100
+Subject: [Oswal-devel] waste of time?
+In-Reply-To: <1108237843.1759.0.camel@athlon.home>
+References: <1108237843.1759.0.camel@athlon.home>
+Message-ID: <20050212200208.GA23758@fiesta.cs.tu-berlin.de>
+
+Markus Herpich wrote:
+
+> Warum ist es denn Zeitverschwendung?
+
+Wozu ist es denn gut?
+
+-- 
+Kind regards
+Ewgenij Starostin, 	estar at cs.tu-berlin.de
+You can find stuff which I would otherwise put in this signature here:
+http://user.cs.tu-berlin.de/~estar/sig.cgi (still under construction)
+
+
+From naddlmenz at gmx.de  Sat Feb 12 22:42:56 2005
+From: naddlmenz at gmx.de (Nadja Menz)
+Date: Sat, 12 Feb 2005 22:42:56 +0100
+Subject: [Oswal-devel] waste of time?
+In-Reply-To: <20050212200208.GA23758@fiesta.cs.tu-berlin.de>
+References: <1108237843.1759.0.camel@athlon.home> <20050212200208.GA23758@fiesta.cs.tu-berlin.de>
+Message-ID: <420E7860.1040307@gmx.de>
+
+> Wozu ist es denn gut?
+Um unser Projekt und den Vortrag zum 4. Meilenstein zu besprechen?
+Aber falls du das f?r ?berfl?ssig h?lst kannst du uns auch gerne per 
+mail deinen bisherigen Code schicken (wie weit bist du eigentlich?) und 
+wir k?mmern uns dann morgen um das was noch aussteht.
+
+	Nadja
+
+
